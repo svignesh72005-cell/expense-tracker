@@ -116,5 +116,3 @@ It provides a simple and effective way to track daily expenses.
 
 
 
-Nee GitHub create pannirukiya illa first time ah?
-First time na basic explain pannidren 😎
