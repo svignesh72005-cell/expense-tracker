@@ -11,15 +11,15 @@ The system allows users to record, view, delete, and analyze their daily expense
 
 ### 🛠 Technologies Used
 
-1.Python
+* Python
 
-2.CSV Module
+* CSV Module
 
-3.File Handling
+* File Handling
 
-4.VS Code
+* VS Code
 
-5.Microsoft Excel (to view CSV file)
+* Microsoft Excel (to view CSV file)
 
 ## 📂 Features
 
