@@ -9,77 +9,77 @@
 ***The objective of this project is to develop a menu-driven Personal Expense Tracker application using Python.
 The system allows users to record, view, delete, and analyze their daily expenses using CSV file storage***.
 
-### 🛠 Technologies Used
+### 🛠 ***Technologies Used***
 
-* Python
+* ***Python***
 
-* CSV Module
+* ***CSV Module***
 
-* File Handling
+* ***File Handling***
 
-* VS Code
+* ***VS Code***
 
-* Microsoft Excel (to view CSV file)
+* ***Microsoft Excel (to view CSV file)***
 
-## 📂 Features
+## 📂 ***Features***
 
-### 1️⃣ Add Expense
+### 1️⃣ ***Add Expense***
 
-User enters:
+***User enters***:
 
-Date (YYYY-MM-DD):
+***Date (YYYY-MM-DD)***:
 
-Category:
+***Category***:
 
-Amount:
+***Amount***:
 
-Description:
+***Description***:
 
-Data is stored in data.csv.
+***Data is stored in data.csv***.
 
 ### 2️⃣ View Expenses
 
-* Reads data from CSV file
+* ***Reads data from CSV file***
 
-* Displays expenses in table format
+* ***Displays expenses in table format***
 
-* Shows serial number for each record
+* ***Shows serial number for each record***
 
-###  3️⃣ Delete Expense
+###  3️⃣ ***Delete Expense***
 
-* User selects expense number
+* ***User selects expense number***
 
-* Selected record is removed
+* ***Selected record is removed***
 
-* File is rewritten with updated data
+* ***File is rewritten with updated data***
 
-### 4️⃣ Monthly Summary
+### 4️⃣ ***Monthly Summary***
 
-* User enters month (MM format)
+* ***User enters month (MM format)***
 
-* Program filters records by month
+* ***Program filters records by month***
 
-* Displays total expense for that month
+* ***Displays total expense for that month***
 
-## 💾 File Handling Concept
+## 💾 ***File Handling Concept***
 
-### The project uses:
+### ***The project uses***:
 
-1.open() function
+1.***open() function***
 
-2.Read mode ("r")
+2.***Read mode ("r")***
 
-3.Write mode ("w")
+3.***Write mode ("w")***
 
-4.Append mode ("a")
+4.***Append mode ("a")***
 
-5.csv.reader()
+5.***csv.reader()***
 
-6.csv.writer()
+6.***csv.writer()***
 
-All expense data is stored in a CSV file (data.csv), ensuring permanent storage even after program exit.
+***All expense data is stored in a CSV file (data.csv), ensuring permanent storage even after program exit***.
 
-### 🔄 Program Flow
+### 🔄 ***Program Flow***
 
 * Display Menu
 
