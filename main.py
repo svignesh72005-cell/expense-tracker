@@ -3,7 +3,7 @@ import os
 
 FILE_NAME = "data.csv"
 
-# Create file if not exists
+
 if not os.path.exists(FILE_NAME):
     with open(FILE_NAME, "w", newline="") as file:
         pass
@@ -115,3 +115,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
