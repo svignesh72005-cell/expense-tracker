@@ -99,7 +99,7 @@ All expense data is stored in a CSV file (data.csv), ensuring permanent storage 
 
 * Conditional Statements
 
-*File Handling.
+* File Handling.
 
 ### Exception Handling
 
