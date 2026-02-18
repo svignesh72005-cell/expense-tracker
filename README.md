@@ -1,15 +1,15 @@
 # expense-tracker
-📘 Personal Expense Tracker
-📌 Project Title
+## 📘 Personal Expense Tracker
+### 📌 Project Title
 
-Personal Expense Tracker using Python with CSV Storage
+#Personal Expense Tracker using Python with CSV Storage
 
-🎯 Objective
+## 🎯 Objective
 
 The objective of this project is to develop a menu-driven Personal Expense Tracker application using Python.
 The system allows users to record, view, delete, and analyze their daily expenses using CSV file storage.
 
-🛠 Technologies Used
+### 🛠 Technologies Used
 
 Python
 
