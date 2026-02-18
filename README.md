@@ -2,7 +2,7 @@
 ## 📘 Personal Expense Tracker
 ### 📌 Project Title
 
-#Personal Expense Tracker using Python with CSV Storage
+# Personal Expense Tracker using Python with CSV Storage
 
 ## 🎯 Objective
 
@@ -11,102 +11,105 @@ The system allows users to record, view, delete, and analyze their daily expense
 
 ### 🛠 Technologies Used
 
-Python
+1.Python
 
-CSV Module
+2.CSV Module
 
-File Handling
+3.File Handling
 
-VS Code
+4.VS Code
 
-Microsoft Excel (to view CSV file)
+5.Microsoft Excel (to view CSV file)
 
-📂 Features
-1️⃣ Add Expense
+## 📂 Features
+
+### 1️⃣ Add Expense
 
 User enters:
 
-Date (YYYY-MM-DD)
+Date (YYYY-MM-DD):
 
-Category
+Category:
 
-Amount
+Amount:
 
-Description
+Description:
 
-Data is stored in data.csv
+Data is stored in data.csv.
 
-2️⃣ View Expenses
+### 2️⃣ View Expenses
 
-Reads data from CSV file
+* Reads data from CSV file
 
-Displays expenses in table format
+* Displays expenses in table format
 
-Shows serial number for each record
+* Shows serial number for each record
 
-3️⃣ Delete Expense
+###  3️⃣ Delete Expense
 
-User selects expense number
+* User selects expense number
 
-Selected record is removed
+* Selected record is removed
 
-File is rewritten with updated data
+* File is rewritten with updated data
 
-4️⃣ Monthly Summary
+### 4️⃣ Monthly Summary
 
-User enters month (MM format)
+* User enters month (MM format)
 
-Program filters records by month
+* Program filters records by month
 
-Displays total expense for that month
+* Displays total expense for that month
 
-💾 File Handling Concept
+## 💾 File Handling Concept
 
-The project uses:
+### The project uses:
 
-open() function
+1.open() function
 
-Read mode ("r")
+2.Read mode ("r")
 
-Write mode ("w")
+3.Write mode ("w")
 
-Append mode ("a")
+4.Append mode ("a")
 
-csv.reader()
+5.csv.reader()
 
-csv.writer()
+6.csv.writer()
 
 All expense data is stored in a CSV file (data.csv), ensuring permanent storage even after program exit.
 
-🔄 Program Flow
+### 🔄 Program Flow
 
-Display Menu
+* Display Menu
 
-User selects an option
+* User selects an option
 
-Corresponding function is executed
+* Corresponding function is executed
 
-Loop continues until user selects Exit
+* Loop continues until user selects Exit
 
-🧠 Python Concepts Used
+### 🧠 Python Concepts Used
 
-Functions
+* Functions
 
-While Loop
+* While Loop
 
-For Loop
+* For Loop
 
-Conditional Statements
+* Conditional Statements
 
-File Handling
+*File Handling.
 
-Exception Handling
+### Exception Handling
 
-📊 Sample CSV Data
+📊 Sample CSV Data:
+
 2005-07-09,food,700,lunch
+
 2007-09-08,travel,689,morning
 
-✅ Conclusion
+## ✅ Conclusion:
 
 This project demonstrates the practical implementation of Python programming concepts such as file handling, menu-driven applications, and data management using CSV storage.
 It provides a simple and effective way to track daily expenses.
